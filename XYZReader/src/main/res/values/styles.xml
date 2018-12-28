@@ -16,13 +16,14 @@
 -->
 
 <resources>
-
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
     </style>
-
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
     </style>
-
+    <style name="TV">
+        <item name="android:textColor">#485460</item>
+        <item name="android:fontFamily">@font/rosario</item>
+    </style>
 </resources>
