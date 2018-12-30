@@ -1,9 +1,9 @@
-
 <resources>
-    <color name="photo_placeholder">#ccc</color>
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="photo_placeholder">#f8bcd9</color>
+    <color name="theme_primary">#e20075</color>
+    <color name="theme_primary_dark">#b50269</color>
+    <color name="theme_accent">#f462a5</color>
     <color name="ltgray">#ffe0e0e0</color>
-    <color name="toolbar">#ef5777</color>
+    <color name="fab_color">#767676</color>
+    <color name="bar_color">#626262</color>
 </resources>
